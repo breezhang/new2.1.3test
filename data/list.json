@@ -1,0 +1,17 @@
+[
+    {
+        "name": "computer pq",
+        "author": "bree",
+        "price": 1.2
+    },
+    {
+        "name": "computer gw",
+        "author": "google",
+        "price": 1.3
+    },
+    {
+        "name": "computer wy",
+        "author": "m$",
+        "price": 1.4
+    }
+]
