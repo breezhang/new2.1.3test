@@ -38,12 +38,16 @@ GIT
 GEM
   specs:
     diff-lcs (1.2.5)
+    mini_portile (0.6.0)
+    nokogiri (1.6.3.1)
+      mini_portile (= 0.6.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   bundler
+  nokogiri
   rspec!
   rspec-core!
   rspec-expectations!
